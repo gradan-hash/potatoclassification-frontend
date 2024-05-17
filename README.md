@@ -1,6 +1,5 @@
 
-
-#README.md for Image Classification React App
+#**Image Classification React App**
 
 **Project Overview**
 This project is a web-based image classification application built with React and FastAPI. It allows users to upload images of potatoes to determine if they are affected by specific diseases such as Early Blight, Late Blight, or are Healthy. The backend uses TensorFlow and a pretrained model to predict the class of potato disease from the images.
